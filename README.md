@@ -26,7 +26,7 @@ A modern, secure, and scalable **User Management Application** designed to handl
 
 ---
 <p align="center">
-  <img src="ApplicationPreview.png" alt="Socio Application Preview" width="900"/>
+  <img src="AppicationPreview.png" alt="Application Preview" width="900"/>
 </p>
 ## 🛠️ Tech Stack
 
