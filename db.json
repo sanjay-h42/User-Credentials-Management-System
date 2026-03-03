@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "id": "fe92ca6c-9e00-47d2-b4df-aa15cdd5f7d0",
+      "name": "sanjay",
+      "age": "20",
+      "email": "sanjaysocially@gmail.com",
+      "phone": "987654321"
+    },
+    {
+      "id": "16cae15d-2e5c-469b-ac4a-202f3fc28dab",
+      "name": "Priya Sharma",
+      "age": "22",
+      "email": "priya.sharma@email.com",
+      "phone": "912345678"
+    },
+    {
+      "id": "2c77abc2-7be4-445f-9b7e-c863a1f8e4dd",
+      "name": "Arjun",
+      "age": "25",
+      "email": "arjun.mehta@email.com",
+      "phone": "934567890"
+    }
+  ],
+  "sessions": []
+}
